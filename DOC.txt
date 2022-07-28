@@ -1,0 +1,35 @@
+WebMail
+
+.Register
+.Login
+.Token
+.Logs
+.Manager Screen
+.Folder
+.Spam
+.Trash
+.Search
+.Filter
+.Config
+..Language
+..Dark/ Light
+
+(Tools)
+
+.Front
+..Angular
+..Bootstrap
+..SASS
+..Selenium
+
+.Back
+..SQL Server
+..C# Asp Ner Core
+..Dapper
+..Unit Test
+..AutoMapper
+..Token JWT
+..SOLID
+..ELK
+
+..Docker
