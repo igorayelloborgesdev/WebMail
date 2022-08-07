@@ -6,7 +6,6 @@ WebMail
 .Logs
 .Manager Screen
 .Folder
-.Spam
 .Trash
 .Search
 .Filter
